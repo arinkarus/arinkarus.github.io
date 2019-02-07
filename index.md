@@ -15,3 +15,29 @@ My faculty is Computer Systems and Networks. While studying at university I’ve
 
 ## INTERESTS
 ***
+My personal interests include:
+
+- *Learning new things* about different
+informational technologies. I'm also 
+interested in building apps with concise UI.
+- My big addiction is various *TV Series and 
+films*. 
+- One more of my interests is *creating bead crochet ropes*
+from tiny Japanese beads. This work requires a lot
+of attention to details.
+- Spending time with my friends. Especially we like to 
+attend new cafes and bars in Minsk.
+
+## Recent projects
+- Web app that helps a person to keep fit through it
+provides the user interface for adding records to 
+eating and training diaries. 
+- Web app which is written in PHP language
+code named "Masterskaya". This is a web site that can 
+be used by crafstmen in order to demostrate their handmade items.
+- Simple app for one of labs in university that can be used for 
+creating a deposite and credit for some bank client.
+
+## LINKS 
+***
+*There will be links for my tasks and smth like that*
