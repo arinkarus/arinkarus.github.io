@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio: Arina Chemrukova
+Hi. My name is Arina and I’d like to give you some background information about myself and goals I want to achieve.
 
-You can use the [editor on GitHub](https://github.com/arinkarus/arinkarus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I study at Belarusian State University of Informatics and Radioelectronics.
+My faculty is Computer Systems and Networks. While studying at university I’ve realized that I enjoy developing applications of different complicity in C# language. So that is the reason that I am attending C# online course. I am fond of learning new stuff that will help me to improve my programming skills and become more creative developer. I consider that information technoligies are changing very quickly so it is extremelly imporant to study a lot in order to move with the times. And I’m ready for it.
 
-### Markdown
+## HILIGHTS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arinkarus/arinkarus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I have exprerience in developing web applications based on ASP .NET MVC and ASP .NET Core.
+- I’d like to create a web application based on ASP .NET Core for backend and React+Redux for frontend for my diploma.
+- I understand the importance of such work in the development process as testing and I always try to test my apps the proper way.
+- Sometimes I am interested in solving some task so much that I forget to sleep and eat! Perhaps it could be my disadvantage :)
