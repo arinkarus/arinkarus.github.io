@@ -40,4 +40,4 @@ creating a deposite and credit for some bank client.
 
 ## LINKS 
 ***
-*There will be links for my tasks and smth like that*
+*Here will be links for my tasks and smth like that*
