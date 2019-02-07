@@ -13,5 +13,5 @@ My faculty is Computer Systems and Networks. While studying at university I’ve
 - I understand the importance of such work in the development process as testing and I always try to test my apps the proper way.
 - Sometimes I am interested in solving some task so much that I forget to sleep and eat! Perhaps it could be my disadvantage :)
 
-INTERESTS
-----------------------------
+## INTERESTS
+***
