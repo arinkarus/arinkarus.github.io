@@ -32,8 +32,8 @@ attend new cafes and bars in Minsk.
 - Web app that helps a person to keep fit through it
 provides the user interface for adding records to 
 eating and training diaries. 
-- Web app which is written in PHP language
-code named "Masterskaya". This is a web site that can 
+- Web app which is written in PHP language named "Masterskaya".
+This is a web site that can 
 be used by crafstmen in order to demostrate their handmade items.
 - Simple app for one of labs in university that can be used for 
 creating a deposite and credit for some bank client.
