@@ -10,7 +10,7 @@ My faculty is Computer Systems and Networks. While studying at university I’ve
 
 - I have exprerience in developing web applications based on ASP .NET MVC and ASP .NET Core.
 - I’d like to create a web application based on ASP .NET Core for backend and React+Redux for frontend for my diploma.
-- I understand the importance of such work in the development process as testing and I always try to test my apps the proper way.
+- I understand the importance of such work as testing in the development process and I always try to test my apps the proper way.
 - Sometimes I am interested in solving some task so much that I forget to sleep and eat! Perhaps it could be my disadvantage :)
 
 ## INTERESTS
