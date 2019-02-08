@@ -31,4 +31,4 @@ We especially like to attend new cafes and bars in Minsk.
 
 ## LINKS 
 ***
- [My Codewars profile](https://www.codewars.com/users/arinkarus)
+
