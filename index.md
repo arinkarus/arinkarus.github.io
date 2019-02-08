@@ -1,4 +1,4 @@
-## Welcome to my portfolio: Arina Chemrukova
+## Welcome to my portfolio: arinkarus
 Hi. My name is Arina and I’d like to give you some background information about myself and goals I want to achieve.
 
 ## Some info about me
@@ -31,4 +31,4 @@ We especially like to attend new cafes and bars in Minsk.
 
 ## LINKS 
 ***
-*Here will be links for my tasks and smth like that*
+ [My Codewars profile](https://www.codewars.com/users/arinkarus)
