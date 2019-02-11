@@ -8,7 +8,6 @@ I study at the Belarusian State University of Informatics and Radioelectronics. 
 ## HILIGHTS
 ***
 * I have experience in developing web applications based on ASP .NET MVC and ASP .NET Core.
-* I’d like to create a web application based on ASP .NET Core for backend and React+Redux for frontend for my university diploma project.
 * I understand the importance of work such as testing in the development process and I always try to test my apps the proper way.
 * Sometimes I am interested in solving some task so much that I forget to sleep and eat! Perhaps it could be my disadvantage :)
 
