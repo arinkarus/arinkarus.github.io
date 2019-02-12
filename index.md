@@ -30,5 +30,5 @@ We especially like to attend new cafes and bars in Minsk.
 
 ## LINKS 
 ***
-[FancyCalc](https://github.com/arinkarus/FancyCalc)
-[PadawansTask1](https://github.com/arinkarus/PadawansTask1)
+* [FancyCalc](https://github.com/arinkarus/FancyCalc)
+* [PadawansTask1](https://github.com/arinkarus/PadawansTask1)
