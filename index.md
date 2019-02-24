@@ -44,6 +44,7 @@ We especially like to attend new cafes and bars in Minsk.
 * [PadawansTask11](https://github.com/arinkarus/PadawansTask11)
 * [PadawansTask12](https://github.com/arinkarus/PadawansTask12)
 * [PadawansTask13](https://github.com/arinkarus/PadawansTask13)
+* [PadawansTask15](https://github.com/arinkarus/PadawansTask15)
 * [ConvertHexStringToRGB (Codewars task #8)](https://github.com/arinkarus/ConvertHexStringToRGB) 
 * [ManipulateURLParameters (Codewars task #13)](https://github.com/arinkarus/ManipulateURLParameters) 
 * [Codewars Profile](https://www.codewars.com/users/arinkarus)
