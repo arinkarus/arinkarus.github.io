@@ -1,6 +1,6 @@
 ## Welcome to my portfolio: arinkarus
 Hi. My name is Arina and I’d like to give you some background information about myself and goals I want to achieve.
-My email address: koshkauma@mail.ru
+* My email address: koshkauma@mail.ru
 
 ## Some info about me
 ***
