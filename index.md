@@ -45,6 +45,7 @@ We especially like to attend new cafes and bars in Minsk.
 * [PadawansTask12](https://github.com/arinkarus/PadawansTask12)
 * [PadawansTask13](https://github.com/arinkarus/PadawansTask13)
 * [PadawansTask15](https://github.com/arinkarus/PadawansTask15)
+* [Tic Tac Toe Game](https://github.com/arinkarus/Tic-Tac-Toe-Game)
 * [ConvertHexStringToRGB (Codewars task #8)](https://github.com/arinkarus/ConvertHexStringToRGB) 
 * [ManipulateURLParameters (Codewars task #13)](https://github.com/arinkarus/ManipulateURLParameters) 
 * [Codewars Profile](https://www.codewars.com/users/arinkarus)
