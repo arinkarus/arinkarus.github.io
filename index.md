@@ -4,7 +4,7 @@ Hi. My name is Arina and I’d like to give you some background information abou
 
 ## Some info about me
 ***
-I study at the Belarusian State University of Informatics and Radioelectronics. My specialization is Computer Systems and Networks. While studying at the university I realized that I enjoy developing applications of different complexity in the C# language. This is the reason why I am attending the C# online course. I am fond of learning new things that will help me improve my programming skills and become a more creative developer. I consider that information technologies are progressing very quickly so it is extremely important to study a lot in order keep up with them, and I’m ready for it.
+I study at the Belarusian State University of Informatics and Radioelectronics. My specialization is Computer Systems and Networks. While studying at the university I realized that I enjoy developing applications of different complexity in the C# language. This is the reason why I am attending the C# online course. I am fond of learning new things that will help me improve my programming skills and become a more creative developer. 
 
 ## HILIGHTS
 ***
@@ -23,11 +23,9 @@ This work requires a lot of attention to details.
 * I enjoy spending time with my friends. 
 We especially like to attend new cafes and bars in Minsk.
 
-## Recent projects
+## TASKS
 ***
-* Web app that helps a person to keep fit by providing a user interface for adding records to eating and training diaries.
-* Web app which is written in the PHP language named “Masterskaya”. This is a website that can be used by craftsmen in order to demonstrate their handmade items.
-* Simple app for one of labs I made in the university that can be used for creating deposit and credit for some bank client.
+* [Day1](https://github.com/arinkarus/NET1.S.2019.Chemrukova.01)
 
 ## LINKS 
 ***
